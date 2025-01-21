@@ -1,4 +1,3 @@
-Here’s a **GitHub README.md** template for your chatbot project:
 
 ---
 
